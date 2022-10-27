@@ -16,7 +16,7 @@
         "link": "https://www.alphahub.site/",
         "available_boards": ["Arduino Uno", "Arduino Nano", "Arduino Leonardo"],
         "enabled": true,
-        "versions": ["V1.0.0", "V2.0.0"],
+        "versions": ["V2.2.1"],
         "isHex": true
     }
   ]
